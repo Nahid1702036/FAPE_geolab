@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel", "torch>=1.13"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name            = "fape-geolab"
+version         = "1.0.0"
+description     = "FAPE Geolab — PyTorch CUDA extension"
+readme          = "README.md"
+requires-python = ">=3.8"
+license         = { text = "MIT" }
+dependencies    = ["torch>=1.13"]
+
+[project.optional-dependencies]
+dev = ["pytest", "numpy"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["fape_geolab*"]

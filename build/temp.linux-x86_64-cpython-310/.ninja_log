@@ -1,0 +1,3 @@
+# ninja log v7
+0	16740	1778022406293758785	/home/nahid/fape_geolab/build/temp.linux-x86_64-cpython-310/csrc/fape_pytorch_bridge.o	56d92d25ecb8782
+0	30697	1778022406292332296	/home/nahid/fape_geolab/build/temp.linux-x86_64-cpython-310/csrc/cuda/fape_surgical_kernel.o	5f02fcfd718b7fa

@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+csrc/fape_pytorch_bridge.cpp
+csrc/cuda/fape_surgical_kernel.cu
+fape_geolab/__init__.py
+fape_geolab/module.py
+fape_geolab.egg-info/PKG-INFO
+fape_geolab.egg-info/SOURCES.txt
+fape_geolab.egg-info/dependency_links.txt
+fape_geolab.egg-info/requires.txt
+fape_geolab.egg-info/top_level.txt
